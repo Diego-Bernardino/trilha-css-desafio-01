@@ -1,9 +1,5 @@
 @import url(./reset.css);
 
-* {
-    min-width: 320px;
-}
-
 body {
     background-color: rgb(0, 0, 0);
     color: rgb(255, 255, 255);
